@@ -34,4 +34,4 @@ git clone https://github.com/candradwicahyo/get-file-extension.git
 
 ![preview](https://github.com/candradwicahyo/get-file-extension/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/get-file-extension)
+[tekan link ini](https://candradwicahyo.github.io/get-file-extension) untuk mencoba demo
